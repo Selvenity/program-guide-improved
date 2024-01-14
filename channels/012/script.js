@@ -1,7 +1,7 @@
 /*
- * @Author: zshall 
- * @Date: 2017-05-02 22:34:46 
- * @Last Modified by: zshall
+ * @Author: Selvenity
+ * @Date: 2024-01-14 ??:??:??
+ * @Last Modified by: Selvenity
  */
 class Channel12 extends Channel {
     constructor(container, guideData) {
