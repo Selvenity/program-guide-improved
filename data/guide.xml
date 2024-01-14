@@ -10,8 +10,8 @@
 		<p>Sign up today!<br />1-800-555-9485</p>
 	</ad>
 	<ad duration="30">
-		<p>Showtime Value Package<br/>Showtime, Sundance &amp; Movie Channel</p>
-		<p>$10.95 / mo.<br/>1-800-555-9485</p>
+		<p>Rent movies with Netflix!</p>
+		<p>Price depends on movie / mo.<br/>www.netflix.com</p>
 	</ad>
 	<ad duration="30">
 		<p><br/>SAVE on Collect Calls!</p>
@@ -1303,4 +1303,21 @@
 <channel noticeonly="noticeonly">
 	<notice>TS99 Networks, Inc</notice>
 </channel>
+<channel number="39" name="Cartoon Network">
+	<listing timeslot="17" type="1" data2="34" data3="0" data4="0">SPokemon</listing>
+	<listing timeslot="21" type="1" data2="34" data3="0" data4="0">Dragon Ball Z</listing>
+	<listing timeslot="25" type="1" data2="34" data3="0" data4="0">Ed, Edd n' Eddy</listing>
+	<listing timeslot="26" type="1" data2="34" data3="0" data4="0">Powerpuff Girls</listing>
+	<listing timeslot="28" type="1" data2="22" data3="0" data4="0">Cartoon Cartoon Fridays</listing>
+	<listing timeslot="29" type="1" data2="34" data3="0" data4="0">Pokemon</listing>
+	<listing timeslot="31" type="1" data2="34" data3="0" data4="0">Pokemon/listing>
+	<listing timeslot="33" type="1" data2="22" data3="0" data4="0">Powerpuff Girls</listing>
+	<listing timeslot="35" type="1" data2="34" data3="0" data4="0">Dragon Ball Z</listing>
+	<listing timeslot="37" type="1" data2="34" data3="0" data4="0">11/9 Talk with Meowth(TM) from Pokemon</listing>
+	<listing timeslot="39" type="1" data2="22" data3="0" data4="0">11/9 Talk with Meowth(TM) from Pokemon/listing>
+	<listing timeslot="41" type="1" data2="34" data3="0" data4="0">Bayblade</listing>
+	<listing timeslot="43" type="1" data2="34" data3="0" data4="0">Edd, Edd n' Eddy</listing>
+	<listing timeslot="47" type="1" data2="34" data3="0" data4="0">Pokemon</listing>
+		<notice?The National Weather Service has announced that the local area of Greenhill, Arizona is safe this tornado season.<notice>
+		</channel>
 </guide>
